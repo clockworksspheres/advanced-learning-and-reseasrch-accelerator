@@ -1,1 +1,2 @@
-# learning-acceleration
+# learning-and-research-accelerator
+
