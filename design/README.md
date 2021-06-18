@@ -12,6 +12,8 @@ The purpose of this software is to provide frameworks and automation around the 
 
 ## Utilities used:
 
+My personal preferance is to use locally installed apps for design works, as I take my dev machine with me places, and do not always have internet to access internet based web applications for design work.  These applications can all be installed locally, although some can be available via internet services.
+
 ### Mind Mapping
 
 | Tool | Description | Project link | Tutorials | Windows package sources | macOS package sources | Linux package sources | Source code Repository |
