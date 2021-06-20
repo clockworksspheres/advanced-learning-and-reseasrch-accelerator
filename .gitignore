@@ -131,3 +131,6 @@ dmypy.json
 # macOS file stream
 .DS_Store
 
+# vym lock files
+*.vym.lock
+
