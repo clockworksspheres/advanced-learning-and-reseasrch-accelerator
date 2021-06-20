@@ -12,6 +12,17 @@ The purpose of this software is to provide frameworks and automation around the 
 
 ## Design and Architecture
 
+### visualize
+
+It is important for me, when designing software to visualize how to break down the project into atomic parts, in standard object oriented patterns, diagrams of the atomic parts and how they might interact, use cases, etc.  From different points of view as well.  From a client view, server view, how a user might see the components, how someone maintaining the project might see the components, how other developers might see the components, how management might see the components, how marketing might see the components... Sometimes, in addition to one or more of those perspectives, different elevations of abstraction as well.  a 40,000 foot view, 30k foot view, 20k foot view 100 foot view, etc.  The purpose being to solidify the design for the different stakeholders.  Note that a small change at one level can mean changes, possibly big ones, at other elevations of perspective.
+
+Using [UML](https://www.uml.org/what-is-uml.htm) may or may not be useful during early parts of the design. Some tools I've used in the past for creating and manipulating [UML can be found below](#uml-tools).
+
+The real reason for the diagrams are two fold - know what and how to design the project, and "communication" to make sure that design to all the stakeholders are on the same page.
+
+A napkin sketch might be enough for a project.  may not even be necessary to put into source code control.  Other projects might be more complicated, and have many stakeholders that need to buy into the project - needing change control boards to manage changes to the project.  The need for design documents for any project is a sliding scale between, possibly beyond these two examples.
+
+The diagrams provided in this repo started, and continue to evolve towards the multi altitude view of the project, as it has a more complex and extensible design than many projects I've worked on in the past.
 ### Pattern
 
 Inspiration for this pattern came from the Model View Controller (MVC) pattern, melded with the von neumann computer model, as well as *nix commands that are generally controlled by a "subcommand"[1](https://en.wikipedia.org/wiki/Sub_Command),[2](https://en.wiktionary.org/wiki/subcommand),  like [git](https://git.github.io/htmldocs/git.html), [launchctl](https://ss64.com/osx/launchctl.html), [systemctl](https://www.commandlinux.com/man-page/man1/systemctl.1.html),  and also the idea of [Open Container Initiative (OCI)](https://opencontainers.org/) [container registries](https://searchcloudcomputing.techtarget.com/definition/container-registry).
@@ -50,7 +61,7 @@ My personal preferance is to use locally installed apps for design works, as I t
 ----- | ----- | ----- | ----- | ----- | ----- | ----- | -----
 | vym | QT based Mind Mapping tool | http://www.insilmaril.de/vym/ | The project link has links to youtube tutorials | Available via project link | Available via Project Link | Available via project link | Available via project link |
 
-## UML
+## UML Tools
 
 | Tool | Description | Project link | Tutorials | Windows package sources | macOS package sources | Linux package sources | Source code Repository |
 ----- | ----- | ----- | ----- | ----- | ----- | ----- | -----
