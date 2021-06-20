@@ -14,7 +14,7 @@ The purpose of this software is to provide frameworks and automation around the 
 
 ### Pattern
 
-Modified Model View Controller (MVC) pattern, melded with the von neumann computer model.
+Inspiration for this pattern came from the Model View Controller (MVC) pattern, melded with the von neumann computer model, as well as *nix commands that are generally controlled by a "subcommand", like launchctl, systemctl,  and many others.
 
 
 
@@ -31,10 +31,11 @@ Modified Model View Controller (MVC) pattern, melded with the von neumann comput
 
 * [https://www.cs.utexas.edu/users/fussell/courses/cs310h/lectures/Lecture_9-310h.pdf](https://www.cs.utexas.edu/users/fussell/courses/cs310h/lectures/Lecture_9-310h.pdf)
 
-* []()
+* [http://www.c-jump.com/CIS77/CPU/VonNeumann/lecture.html](http://www.c-jump.com/CIS77/CPU/VonNeumann/lecture.html)
 
-* []()
+* [https://www.computerscience.gcse.guru/theory/von-neumann-architecture](https://www.computerscience.gcse.guru/theory/von-neumann-architecture)
 
+* [https://history-computer.com/john-von-neumann-biography-history-and-inventions/](https://history-computer.com/john-von-neumann-biography-history-and-inventions/)
 
 # Utilities used:
 
