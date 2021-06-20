@@ -16,7 +16,7 @@ The purpose of this software is to provide frameworks and automation around the 
 
 It is important for me, when designing software to visualize how to break down the project into atomic parts, in standard object oriented patterns, diagrams of the atomic parts and how they might interact, use cases, etc.  From different points of view as well.  From a client view, server view, how a user might see the components, how someone maintaining the project might see the components, how other developers might see the components, how management might see the components, how marketing might see the components... Sometimes, in addition to one or more of those perspectives, different elevations of abstraction as well.  a 40,000 foot view, 30k foot view, 20k foot view 100 foot view, etc.  The purpose being to solidify the design for the different stakeholders.  Note that a small change at one level can mean changes, possibly big ones, at other elevations of perspective.
 
-Using [UML](https://www.uml.org/what-is-uml.htm) may or may not be useful during early parts of the design. Some tools I've used in the past for creating and manipulating [UML can be found below](#uml-tools).
+Using [UML](https://www.uml.org/what-is-uml.htm) may or may not be useful during early parts of the design. Some [useful UML tools can be found below](#uml-tools).
 
 The real reason for the diagrams are two fold - know what and how to design the project, and "communication" to make sure that design to all the stakeholders are on the same page.
 
@@ -63,8 +63,11 @@ My personal preferance is to use locally installed apps for design works, as I t
 
 ## UML Tools
 
+Note: the links for the Plant UML line below refer to the Plant UML server/service for running the code against to generate a diagram from PlantUML code.
+
 | Tool | Description | Project link | Tutorials | Windows package sources | macOS package sources | Linux package sources | Source code Repository |
 ----- | ----- | ----- | ----- | ----- | ----- | ----- | -----
+| PlantUML | Domain Specific Language (DSL) for describing diagramming, with server client capability | https://plantuml.com/ http://pdf.plantuml.net/PlantUML_Language_Reference_Guide_en.pdf | https://crashedmind.github.io/PlantUMLHitchhikersGuide/ | https://plantuml.com/download | https://plantuml.com/download | https://plantuml.com/download | https://plantuml.com/download |
 | Umbrello  | KDE hosted UML project | https://umbrello.kde.org/  | https://umbrello.kde.org/documentation.php  | https://community.chocolatey.org/packages/umbrello | https://invent.kde.org/packaging/homebrew-kdebrew | https://snapcraft.io/umbrello | https://github.com/KDE/umbrello |
 | drawio | diagram builder | https://www.diagrams.net/ | https://drawio-app.com/tutorials/ | https://community.chocolatey.org/packages/drawio | https://formulae.brew.sh/cask/drawio | https://snapcraft.io/drawio | https://github.com/jgraph/drawio-desktop |
 
