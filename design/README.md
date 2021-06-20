@@ -14,8 +14,9 @@ The purpose of this software is to provide frameworks and automation around the 
 
 ### Pattern
 
-Inspiration for this pattern came from the Model View Controller (MVC) pattern, melded with the von neumann computer model, as well as *nix commands that are generally controlled by a "subcommand", like launchctl, systemctl,  and many others.
+Inspiration for this pattern came from the Model View Controller (MVC) pattern, melded with the von neumann computer model, as well as *nix commands that are generally controlled by a "subcommand", like launchctl, systemctl,  and also the idea of OCI container registries.
 
+Export of the initial [vym file of this pattern](https://github.com/clockworksspheres/learning-and-reseasrch-accelerator/blob/main/design/learningNresearchAccelleratorRegistry_2021-06-19_2039.png).
 
 
 ## References
