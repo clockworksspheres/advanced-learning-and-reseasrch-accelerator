@@ -1,4 +1,4 @@
-# learning-accelerator
+# learning-and-research-accelerator
 
 ## WARNING
 
@@ -8,7 +8,9 @@
 
 ## Purpose
 
-The purpose of this software is to provide frameworks and automation around the learning and research process.  The [Kerko](https://github.com/whiskyechobravo/kerko) project inspired this project, along with the experience project developers and maintainers have in ETL, file parsing and web scraping.
+The purpose of this software is to provide frameworks and automation around the learning and research processes, that came together for me when I started a Doctor in Computer Science(DCS) program.  Sadly I was unable to complete the program for a variety of reasons, but some awesome learning still came out of it.
+
+The [Kerko](https://github.com/whiskyechobravo/kerko) project inspired this project, Object Oriented Programming(OOP) principles, the Von Neumann Machine, along with the experience project developers and maintainers have in ETL, file parsing and web scraping.
 
 ## Design and Architecture
 
