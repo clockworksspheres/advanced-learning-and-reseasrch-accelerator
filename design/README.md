@@ -14,7 +14,7 @@ The purpose of this software is to provide frameworks and automation around the 
 
 ### Pattern
 
-Inspiration for this pattern came from the Model View Controller (MVC) pattern, melded with the von neumann computer model, as well as *nix commands that are generally controlled by a "subcommand", like launchctl, systemctl,  and also the idea of OCI container registries.
+Inspiration for this pattern came from the Model View Controller (MVC) pattern, melded with the von neumann computer model, as well as *nix commands that are generally controlled by a "subcommand"[1](https://en.wikipedia.org/wiki/Sub_Command),[2](https://en.wiktionary.org/wiki/subcommand),  like [git](https://git.github.io/htmldocs/git.html), [launchctl](https://ss64.com/osx/launchctl.html), [systemctl](https://www.commandlinux.com/man-page/man1/systemctl.1.html),  and also the idea of [Open Container Initiative (OCI)](https://opencontainers.org/) [container registries](https://searchcloudcomputing.techtarget.com/definition/container-registry).
 
 Export of the initial vym file of this pattern: 
 
