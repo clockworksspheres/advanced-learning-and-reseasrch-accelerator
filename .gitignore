@@ -134,3 +134,8 @@ dmypy.json
 # vym lock files
 *.vym.lock
 
+# Intellij Idea 
+.idea
+*.iml
+
+
