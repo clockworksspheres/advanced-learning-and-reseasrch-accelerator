@@ -1,5 +1,9 @@
 #!/usr/bin/env -S python -u
 """
+AST = AbstractDataType
+
+Attempted to see if it was useful enough to use to grab data out of markdown tables - too complicated per the KISS principle.
+
 """
 
 from enum import Enum
