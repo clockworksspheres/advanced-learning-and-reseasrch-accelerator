@@ -10,7 +10,12 @@ def printSeparator():
     print("*****************************************************************")
 
 
-def mdTable2json(mdString = ""):
+def mdTable2baseJsonDict(mdString = ""):
+    """
+    uses a uniq type approach to not get any duplicate entries.. not good for 
+    accessing collections per webpage... Operates on a passed in string, creates
+    a dictionary from table entries, and returns that.
+    """
 
     result = {}
     print(mdString)
@@ -43,7 +48,7 @@ if __name__ == '__main__':
         with open(inf, 'r') as f:
             s = f.read()
             print(s)
-            jsonData = mdTable2json(s)
+            jsonData = mdTable2baseJson(s)
             print(jsonData)
             formattedJsonData = json.dumps(jsonData, indent=3)
             print(formattedJsonData)
