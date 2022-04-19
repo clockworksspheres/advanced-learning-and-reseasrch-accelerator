@@ -5,6 +5,10 @@
 import json
 import re
 import sys
+import configparser
+import click
+# import typer
+
 
 def printSeparator():
     print("*****************************************************************")
@@ -77,7 +81,18 @@ https://realpython.com/command-line-interfaces-python-argparse/
 """
 
 
-if __name__ == '__main__':
+
+#@click.command()
+#@click.option("-f", "--filename", type=str, default="", help="Filename of markdown file to parse", required=True)
+@click.command()
+@click.option("-f", "--filename", type=str, default="", help="Filename of markdown file to parse", required=True)
+def parse_args(filename):
+    click.echo(f"Filename: {filename}")
+
+
+
+if __name__=='__main__':
+    parse_args()
     if len(sys.argv) > 1:
         inf = sys.argv[1]
 

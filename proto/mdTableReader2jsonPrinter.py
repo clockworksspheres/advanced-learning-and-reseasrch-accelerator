@@ -6,6 +6,8 @@ import json
 import re
 import sys
 
+import click
+
 def printSeparator():
     print("*****************************************************************")
 
@@ -40,21 +42,25 @@ def mdTable2baseJsonDict(mdString = ""):
         pass
     return result
 
+@click.command()
+@click.option("-f", "--filename", type=str, help="Markdown filename to load")
+@click.option("-v", "--verbose", is_flag=True, help="Print more output.")
+def parse_args(filename, verbose):
+    """ Parse .md table for link and description key - value pairs """
+    click.echo(f"filename: {filename}")
+    click.echo(f"verbose flag: {verbose}")
+    return {"filename": filename, "verbose": verbose}
 
 if __name__ == '__main__':
-    if len(sys.argv) > 1:
-        inf = sys.argv[1]
+    arguments = parse_args()
 
-        with open(inf, 'r') as f:
-            s = f.read()
-            print(s)
-            jsonData = mdTable2baseJson(s)
-            print(jsonData)
-            formattedJsonData = json.dumps(jsonData, indent=3)
-            print(formattedJsonData)
-            
-
-
-
-
-
+    # if len(sys.argv) > 1:
+    #    inf = sys.argv[1]
+    # with open(inf, 'r') as f:
+    with open(arguments["filename"], 'r') as f:
+        s = f.read()
+        print(s)
+        jsonData = mdTable2baseJsonDict(s)
+        print(jsonData)
+        formattedJsonData = json.dumps(jsonData, indent=4)
+        print(formattedJsonData)
