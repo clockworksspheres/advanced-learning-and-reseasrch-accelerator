@@ -9,14 +9,14 @@ Create an app, glue logic, apis, plugin environment, pulling in a variety of sea
 
 pulling together:
 
-Library/App/Framework | link(s)
---- | ---
-- [ ] dynamic programming search algorithms | many, one specific project:  https://github.com/junegunn/fzf
-- [ ] Obsidian - "second brain" app - note taking app on super-steroids that make super-heros look like kindergarteners... | https://github.com/obsidianmd/obsidian-releases
-- [ ] kerko - but use this static framework to create a dynamic search environment, that collects, tracks and houses biblographical information on searches in zotero - perhaps more in the future... | https://github.com/whiskyechobravo/kerko
-- [ ] npe2 (or similar plugin framework - but this is already in python)  | https://github.com/napari/npe2
-- [ ] Zotero | https://github.com/zotero/zotero
-- [ ] ck/cm frameworks | https://ck.readthedocs.io/en/latest/src/introduction.html , https://github.com/mlcommons/ck
+Integrated | Library/App/Framework | link
+--- | --- | ---
+not yet | scrapy - network/web scraping |  https://www.datacamp.com/tutorial/making-web-crawlers-scrapy-python , https://github.com/scrapy/scrapy
+not yet | dynamic programming based search algorithms | many, one specific project -  https://github.com/junegunn/fzf
+not yet | Use this static framework to create a dynamic search environment, that collects, tracks and houses biblographical information on searches in zotero - perhaps more in the future... | https://github.com/whiskyechobravo/kerko
+not yet | npe2 (or similar plugin framework - but this is already in python)  | https://github.com/napari/npe2
+not yet | Zotero | https://github.com/zotero/zotero
+not yet | ck/cm frameworks | https://ck.readthedocs.io/en/latest/src/introduction.html , https://github.com/mlcommons/ck
 
 Create a tool framework around the "principle of emergence"* to enable the "symbiotic relationship between man and machine"* to be "more than the sum of its parts" - or Symbiotic Intelligence - to improve accelleration of productivity, reduction of error, increased output, faster decision management with better information, and more.
 
