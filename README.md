@@ -33,11 +33,13 @@ not yet | Use this static framework to create a dynamic search environment, that
 not yet | npe2 (or similar plugin framework - but this is already in python)  | https://github.com/napari/npe2
 not yet | Zotero | https://github.com/zotero/zotero
 not yet | ck/cm frameworks | https://ck.readthedocs.io/en/latest/src/introduction.html , https://github.com/mlcommons/ck
-not yet | plantUML/mermaid/kroki | 
-not yet | drawio | 
-not yet | vym | 
-not yet | discord |
-not yet | slack | 
+not yet | plantUML | 
+not yet | mermaid | 
+not yet | kroki | 
+not yet | drawio | https://github.com/jgraph/drawio
+not yet | vym | https://github.com/insilmaril/vym
+not yet | discord | https://github.com/discord
+not yet | slack | https://github.com/slackapi/python-slack-sdk
 
 ## possible project phases - or sprints
 
