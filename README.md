@@ -15,7 +15,7 @@ Create a tool framework around the "principle of emergence"* to enable the "symb
 
   * [The sky’s the limit: why together we’re greater than the sum of our parts](https://www.guardian2zotagl6tmjucg3lrhxdk4dw3lhbqnkvvkywawy3oqfoprid.onion/books/2020/feb/15/the-skys-the-limit-why-together-we-are-greater-than-the-sum-of-our-parts)
 
-  * [Team: are you more than the sum of your parts?](https://medium.com/corporate-strategy/team-are-you-more-than-the-sum-of-your-parts-db9e98f9b836]
+  * [Team: are you more than the sum of your parts?](https://medium.com/corporate-strategy/team-are-you-more-than-the-sum-of-your-parts-db9e98f9b836)
 
 ### Reference for "Symbiotic relationship between man and machine"
 “Symbiotic relationship of Man and Machine in Space Colonization”, in the proceedings of Space Technology and Applications International Forum-2007, Roy Nielsen, AIP Conference Proceedings 880, Melvile, New York, 2007 pp. 888-896
