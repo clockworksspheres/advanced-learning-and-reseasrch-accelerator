@@ -13,7 +13,7 @@ Create a tool framework around the "principle of emergence"* to enable the "symb
 
   * Checkland, P. 1999. Systems Thinking, Systems Practice. New York, NY, USA: John Wiley & Sons. 
 
-  * [The sky’s the limit: why together we’re greater than the sum of our parts](ihttps://www.theguardian.com/books/2020/feb/15/the-skys-the-limit-why-together-we-are-greater-than-the-sum-of-our-parts)
+  * [The sky’s the limit: why together we’re greater than the sum of our parts](https://www.theguardian.com/books/2020/feb/15/the-skys-the-limit-why-together-we-are-greater-than-the-sum-of-our-parts)
 
   * [Team: are you more than the sum of your parts?](https://medium.com/corporate-strategy/team-are-you-more-than-the-sum-of-your-parts-db9e98f9b836)
 
