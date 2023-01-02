@@ -53,11 +53,11 @@ Likely a several phases, for each of alpha, beta & gold, reaching 1.0
 To reach 1.0, the following must be met -
 
 * the following must be integrated into an MVC type pattern, described in the design directory
-- [ ] Zotero - open source bibliography database software and plugins
-- [ ] Kerko - static website based on a zotero database
-- [ ] scapy - network/web scraping
-- [ ] fzf - awesome fast searching..
-- [ ] npe2 - if not integrating npe2, a similarly functioning plugin structure for 1.0
+- [ ] Bibliography database integration - if possible, Zotero - open source bibliography database software and plugins
+- [ ] Interface to Bibliography database, similar to Kerko - static website based on a zotero database
+- [ ] Network/web searching capability - scapy - network/web scraping
+- [ ] Dynamic programming based search/sort, possibly based on fzf - awesome fast searching..
+- [ ] Plugin framework, possibly based on npe2 - if not integrating npe2, a similarly functioning plugin structure for 1.0
 
 The above will be bound with a front end, based on, or similar to Kerko, except be a dynamically generated page based on search criteria similar to google's search criteria.  Eventually many search engines will be usable or their functionality used/leveraged.  First pass search engines:
 
@@ -70,90 +70,18 @@ stretch goals:
 - [ ] NOAA weather search
 - [ ] weather underground search
 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-
 ### three
 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ]  
+- [ ]  
+- [ ]  
+- [ ]  
+- [ ]  
+- [ ]  
+- [ ]  
+- [ ]  
 
 ### four
 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
 
-### five
-
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-
-### six
-
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-
-### seven 
-
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-
-### eight
-
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
 
