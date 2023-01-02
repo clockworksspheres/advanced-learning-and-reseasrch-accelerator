@@ -5,8 +5,13 @@ Tool framework for Symbiotic Intelligence - with the goal of facilitating learni
 
 ## End Design Goal: 
 
-Create a tool framework around the "principle of emergence"* to enable the "symbiotic relationship between man and machine"* to be "more than the sum of its parts" - or Symbiotic Intelligence - to improve accelleration of productivity, reduction of error, increased output, faster decision management with better information, and more.  Currently struggling with Aphasia, ADHD, dislexia, Fibromyalgia and more - hope this kind of tool can help those with these and other kinds of "disabilities/abilities/superpowers", in their quest to learn, research, and fit into, or back into, society.
+Create a tool framework around the "principle of emergence"* to enable the "symbiotic relationship between man and machine"* to be "more than the sum of its parts" - or Symbiotic Intelligence - to improve accelleration of productivity, reduction of error, increased output, faster decision management with better information, and more.  
 
+### Driving purpose: 
+
+Currently struggling with Aphasia, ADHD, dislexia, Fibromyalgia and more - hope this kind of tool can help those with these and other kinds of "disabilities/abilities/superpowers", in their quest to learn, research, and fit into, or back into, society.
+
+Absolutely hoping it'll help more than just me, and more than those stated above!
 
 ### References for "principle of emergence"
   * https://www.sebokwiki.org/wiki/Emergence ['As defined by Checkland, emergence is “the principle that entities exhibit properties which are meaningful only when attributed to the whole, not to its parts.” ' (Checkland 1999, 314).]
