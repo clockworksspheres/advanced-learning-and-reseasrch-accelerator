@@ -70,7 +70,8 @@ not yet | npe2 (or similar plugin framework - but this is already in python)  | 
 ### Frameworks to integrate into the project
 Integrated | Library/App/Framework | link
 --- | --- | ---
-not yet | ck - Collective Knowledge | https://www.cknowledge.org/ </p> https://github.com/mlcommons/ck </p> https://ck.readthedocs.io/en/latest/src/introduction.html </p> https://github.com/topics/collective-knowledge </p> https://royalsocietypublishing.org/doi/10.1098/rsta.2020.0211 </p> https://ieeexplore.ieee.org/document/7459430?arnumber=7459430
+not yet | ck - Collective Knowledge | https://www.cknowledge.org/ </p> https://github.com/mlcommons/ck </p> https://ck.readthedocs.io/en/latest/src/introduction.html </p> https://github.com/topics/collective-knowledge </p> https://royalsocietypublishing.org/doi/10.1098/rsta.2020.0211 </p> https://ieeexplore.ieee.org/document/7459430?arnumber=7459430 </p> https://awesomeopensource.com/projects/collective-knowledge/portable-workflows/python
+
 
 ### Modeling languages/info
 Integrated | Library/App/Framework | link
