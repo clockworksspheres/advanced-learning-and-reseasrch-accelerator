@@ -96,7 +96,7 @@ not yet | atlassian products | https://www.atlassian.com/
 
 ### Miminum viable product:
 
-1. Kerloapp as default - just read a zotero db and display (local or web)
+1. Kerloapp as default reference process - just read a zotero db and display (from local or from web)
 2. Scrape web page for ris/zot related info and store in zot db (local or web)
 3. Scrape PDF for ris/zont related info and store in zot db (local or web)
 4. scholar.google.com, search for info, collect ris, put in zot db (local or web)
