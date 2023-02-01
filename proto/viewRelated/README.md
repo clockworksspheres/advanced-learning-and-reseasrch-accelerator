@@ -8,9 +8,9 @@ Libraries used when creating command line interfaces for software.  Can often be
 
 Library Name | Description | prototypes directory | Install Methods | upstream Github Repo | Documentation/tutorials
  --- | --- | --- | --- | --- | ---
-argparse | | | | | 
-typer | | | | | 
-click | | | | | 
+argparse | | | manual via pypi/github, pip/conda/modules/conatiner | | 
+typer | | | manual via pypi/github, pip/conda/modules/conatiner | | 
+click | | | manual via pypi/github, pip/conda/modules/conatiner | | 
 
 
 ## TUI (Text User Interface) related
@@ -18,9 +18,7 @@ click | | | | |
 
 Library Name | Description | prototypes directory | Install Methods | upstream Github Repo | Documentation/tutorials
  --- | --- | --- | --- | --- | --- 
-argparse | | | | | 
-
- click_learning_tutorials | The python "click" library | 
+click | Command line interface and TUI library | click_learning_tutorials | manual via pypi/github, pip/conda/modules/conatiner | | 
 
 
 ## GUI (Graphical User Interface)
@@ -30,10 +28,9 @@ python GUI Tutorials
 
 Library Name | Description | prototypes directory | Install Methods | upstream Github Repo | Documentation/tutorials
  --- | --- | --- | --- | --- | --- 
-argparse | | | | | 
-magicgui | | | | | 
-PyQt | | | | | 
-Pyside | | | | | 
-tk | | | | | 
-wx | | | | | 
+magicgui | | | manual via pypi/github, pip/conda/modules/conatiner | | 
+PyQt | | | manual via pypi/github, pip/conda/modules/conatiner | | 
+Pyside | | | manual via pypi/github, pip/conda/modules/conatiner | | 
+tk | | | manual via pypi/github, pip/conda/modules/conatiner | | 
+wx | | | manual via pypi/github, pip/conda/modules/conatiner | | 
 
