@@ -23,6 +23,9 @@ click | Command line interface and TUI library | click_learning_tutorials | manu
 
 ## GUI (Graphical User Interface)
 
+General Python GUI references
+subject  | link to info
+ --- | ---
 python GUI Tutorials | https://www.pythonguis.com/latest/
 Qt's Pyside tutorial | https://doc.qt.io/qtforpython/tutorials/index.html
 magicgui | https://pyapp-kit.github.io/magicgui/ </p> https://github.com/pyapp-kit/magicgui
