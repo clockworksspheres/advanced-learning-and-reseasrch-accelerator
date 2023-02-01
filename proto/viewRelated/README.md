@@ -6,19 +6,19 @@ Prototyping functionality relating to "views" - of the MVC (Model View Controlle
 
 Libraries used when creating command line interfaces for software.  Can often be used in combination with TUI and GUI libraries.
 
-Library Name | Description | Install Methods | upstream Github Repo | Documentation/tutorials
- --- | --- | --- | --- | ---
-argparse | | | |
-typer | | | | 
-click | | | | 
+Library Name | Description | prototypes directory | Install Methods | upstream Github Repo | Documentation/tutorials
+ --- | --- | --- | --- | --- | ---
+argparse | | | | | 
+typer | | | | | 
+click | | | | | 
 
 
 ## TUI (Text User Interface) related
 
 
-Library Name | Description | Install Methods | upstream Github Repo | Documentation/tutorials
- --- | --- | --- | --- | ---
-argparse | | | |
+Library Name | Description | prototypes directory | Install Methods | upstream Github Repo | Documentation/tutorials
+ --- | --- | --- | --- | --- | --- 
+argparse | | | | | 
 
  click_learning_tutorials | The python "click" library | 
 
@@ -28,12 +28,12 @@ argparse | | | |
 python GUI Tutorials
 
 
-Library Name | Description | Install Methods | upstream Github Repo | Documentation/tutorials
- --- | --- | --- | --- | ---
-argparse | | | | 
-magicgui | | | | 
-PyQt | | | | 
-Pyside | | | | 
-tk | | | | 
-wx | | | | 
+Library Name | Description | prototypes directory | Install Methods | upstream Github Repo | Documentation/tutorials
+ --- | --- | --- | --- | --- | --- 
+argparse | | | | | 
+magicgui | | | | | 
+PyQt | | | | | 
+Pyside | | | | | 
+tk | | | | | 
+wx | | | | | 
 
