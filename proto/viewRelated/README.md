@@ -23,14 +23,16 @@ click | Command line interface and TUI library | click_learning_tutorials | manu
 
 ## GUI (Graphical User Interface)
 
-python GUI Tutorials
-
+python GUI Tutorials | https://www.pythonguis.com/latest/
+Qt's Pyside tutorial | https://doc.qt.io/qtforpython/tutorials/index.html
+magicgui | https://pyapp-kit.github.io/magicgui/ </p> https://github.com/pyapp-kit/magicgui
+one magicgui user/contributor | https://github.com/tlambert03
 
 Library Name | Description | prototypes directory | Install Methods | upstream Github Repo | Documentation/tutorials
  --- | --- | --- | --- | --- | --- 
-magicgui | | | manual via pypi/github, pip/conda/modules/conatiner | | 
+magicgui | | | manual via pypi/github, pip/conda/modules/conatiner | | https://pyapp-kit.github.io/magicgui/ </p> .
 PyQt | | | manual via pypi/github, pip/conda/modules/conatiner | | 
-Pyside | | | manual via pypi/github, pip/conda/modules/conatiner | | 
+Pyside | | | manual via pypi/github, pip/conda/modules/conatiner | | https://wiki.qt.io/PySide_Tutorials </p> .
 tk | | | manual via pypi/github, pip/conda/modules/conatiner | | 
 wx | | | manual via pypi/github, pip/conda/modules/conatiner | | 
 
