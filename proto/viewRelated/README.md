@@ -2,6 +2,8 @@
 
 Prototyping functionality relating to "views" - of the MVC (Model View Controller) type programming models.
 
+maybe change name to cyslara - cyber symbiotic learning and research accellerator....
+
 ## command line interface related
 
 Libraries used when creating command line interfaces for software.  Can often be used in combination with TUI and GUI libraries.
