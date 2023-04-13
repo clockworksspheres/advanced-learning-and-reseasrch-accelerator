@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "880a5149533f0eb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "994499fd4225e3d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e9bd4e0005952a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "design/randomDesignThoughts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54f51ee2f38de8a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "dccd364e91719472",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f38a28c202845ecc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2d8b7eb898c5e7e3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9bfa9defd042521b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f424825622745432",
+    "type": "split",
+    "children": [
+      {
+        "id": "20b8776314017477",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5b27e927e28b2b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "design/randomDesignThoughts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fc0e343cfd236adf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "design/randomDesignThoughts.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "39ed1ed035172fb9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a19626eafd7349e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "design/randomDesignThoughts.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f38a28c202845ecc",
+  "lastOpenFiles": [
+    "design/research/potential4includingAsTestDataOrReferenceResearch/AI-ML-N-CollectiveKnowledge-CollectiveMind.md",
+    "design/research/potential4includingAsTestDataOrReferenceResearch/thermodynamicsHistoryNexperiments.md",
+    "design/research/potential4includingAsTestDataOrReferenceResearch",
+    "design/research",
+    "README.md",
+    "proto/collectingWebInfo/gettingBrowserData/README.md.md",
+    "proto/viewRelated/README.md",
+    "proto/controllerRelated/risNRelatedCollectors/libreOpenOfficeDocScrapers/README.md",
+    "proto/controllerRelated/fileParsers/risFileParsers/readmeTemplate.md",
+    "proto/controllerRelated/fileParsers/markdownRelated/markdownFromTabli.md",
+    "proto/controllerRelated/fileParsers/markdownRelated/README_mdTableReader2jsonPrinter.md",
+    "design/randomDesignThoughts.md",
+    "design/convertingDotMdToPDF.md",
+    "proto/collectingWebInfo/gettingBrowserData",
+    "proto/collectingWebInfo",
+    "readmeTemplate.md",
+    "design/graphicsPlus/Pasted image 20230203122428.png",
+    "design/graphicsPlus",
+    "design/aboutTools/copyTabTitleURL/copyTabTitleURL.md",
+    "proto/click_learning_examples.md",
+    "proto/markdownFromTabli.md",
+    "design/minimumViableProductThoughts/firstAttemptAtMinimumViableProductBrainstorming.md"
+  ]
+}
