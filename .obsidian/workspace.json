@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "design/RISinfo.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "bf7293cde239a425",
   "lastOpenFiles": [
+    "src/RisDataModel.py",
+    "src/tests/RisDataModel.py",
+    "src/tests/test_risdata.py",
     "src/tests",
     "design/todo.md",
     "design/RISinfo.md",
