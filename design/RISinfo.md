@@ -9,3 +9,9 @@ It's an older format so wikipedia should be just fine using, or at least referen
 # References
 
 * [Wikipedia info on RIS formats](https://en.wikipedia.org/wiki/RIS_%28file_format%29)
+
+# Additional formats
+
+[ENW Refer BibIX EndNote tag map](https://github.com/aurimasv/translators/wiki/ENW-Refer-BibIX-EndNote-tag-map)
+
+
